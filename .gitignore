@@ -6,6 +6,59 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+.DS_Store
+Thumbs.db
+
+# Ignore Gemfile.lock, but not Gemfile
+Gemfile.lock
+
+# Ignore bundler config, but not .bundle directory
+/.bundle/config
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
+
+# Ignore Linux system files
+*~
+
+# Ignore temporary files created by editors
+*~
+*.swp
+
+# Ignore temporary files created by vim
+*.swp
+
+# Ignore temporary files created by emacs
+*~
+
+# Ignore temporary files created by IntelliJ IDEA
+.idea/
+
+# Ignore temporary files created by Visual Studio Code
+.vscode/
+
+# Ignore temporary files created by NetBeans IDE
+nbproject/private/
+
+# Ignore temporary files created by Eclipse IDE
+.settings/
+.metadata/
+.classpath
+.project
+
+# Ignore temporary files created by Xcode IDE
+xcuserdata/
+
+# Ignore temporary files created by Android Studio IDE
+.idea/
+.gradle/
+local.properties
+
+# Ignore temporary files created by JetBrains IDEs (e.g. IntelliJ IDEA, PyCharm)
+.idea/
 
 # Additional Ruby/bundler ignore for when you run: bundle install
 /vendor
