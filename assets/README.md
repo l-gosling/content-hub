@@ -2,7 +2,7 @@
 
 ## Keychain
 
-You can find a keychain in the `maester_keychain.stl` file. For the best look, I would switch filament right before you're at the logo layer. And if you want you can also add a small nfc sticker if you pause at layer 4 (with 0.2mm layer height).
+You can find a keychain in the `maester_keychain.stl` file. For the best look, I would switch filament right before you're at the logo layer. And if you want you can also add a small NFC sticker if you pause at layer 4 (with 0.2mm layer height).
 
 ![Sample keychain next to 20 cents euro coin](maester-keychain.jpeg)
 

@@ -1,6 +1,6 @@
 # Contributing to Maester content hub
 
-This document describes how to contribute to the Maester content hub. We share content here, so others can easily promote Maester and show others how to use it.
+This document describes how to contribute to the Maester content hub. We share content here so others can easily promote Maester and show others how to use it.
 
 ## Prerequisites
 
@@ -22,7 +22,6 @@ Before contributing content, make sure you familiarize yourself with the [Maeste
 When creating a pull request, please make sure to follow these guidelines:
 
 - Provide a clear and concise description of the changes you made.
-- Include any relevant issue numbers in the pull request description.
 - Enable the checkbox to [allow maintainer edits](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/allowing-changes-to-a-pull-request-branch-created-from-a-fork) so the branch can be updated for a merge.
 
 ## Merging pull requests
